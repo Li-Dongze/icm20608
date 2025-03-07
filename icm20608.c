@@ -14,6 +14,7 @@
 #include <finsh.h>
 
 #include <string.h>
+#include <stdlib.h>
 #include "icm20608.h"
 
 #ifdef PKG_USING_ICM20608
